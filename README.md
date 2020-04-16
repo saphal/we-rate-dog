@@ -8,8 +8,7 @@
 2. Project Motivation
 3. File Descriptions
 4. Approach
-5. Results
-6. Licensing, Authors, and Acknowledgements
+5. Licensing, Authors, and Acknowledgements
 
 <h2>Installation</h2>
 I would recommend to use anoconda and jupyter libraries.
